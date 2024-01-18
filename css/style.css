@@ -31,3 +31,7 @@ header {
 .logo span {
     color: #80BA4A;
 }
+
+.header_menu li {
+    margin-left: 40px;
+}
