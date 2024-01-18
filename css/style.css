@@ -15,3 +15,8 @@ html {
     flex-wrap: wrap;
     align-items: center;
 }
+
+/* ヘッダー */
+header {
+    padding: 27px 0;
+}
