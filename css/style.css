@@ -36,8 +36,7 @@ header {
     margin-left: 40px;
 }
 
-.header_menu li a:hover {
-    color: #80BA4A;
+.header_menu li a {
     transition: 0.3s;
 }
 
