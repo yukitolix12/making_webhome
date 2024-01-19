@@ -56,6 +56,7 @@ header {
     display: flex;
     align-items: center;
     margin-bottom: 90px;
+    overflow: hidden;
 }
 
 #hero::before {
