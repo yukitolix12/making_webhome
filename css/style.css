@@ -83,3 +83,8 @@ header {
     font-weight: 500;
     margin-bottom: 16px;
 }
+
+.hero_inner h1 {
+    font-size: 32px;
+    font-weight: 700;
+}
