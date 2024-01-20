@@ -101,3 +101,9 @@ header {
     color: #80BA4A;
     margin-bottom: 60px;
 }
+
+#concept h3 {
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 60px;
+}
