@@ -73,4 +73,7 @@ header {
 
 .hero_inner {
     z-index: 2;
+    color: #ffffff;
+    width: 100%;
+    text-align: center;
 }
