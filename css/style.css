@@ -94,3 +94,10 @@ header {
 #concept {
     margin-bottom: 120px;
 }
+
+.title {
+    font-size: 20px;
+    font-weight: 500;
+    color: #80BA4A;
+    margin-bottom: 60px;
+}
