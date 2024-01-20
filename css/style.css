@@ -111,3 +111,7 @@ header {
 .column-2 {
     width: 48%;
 }
+
+.text {
+    line-height: 2;
+}
