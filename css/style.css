@@ -107,3 +107,7 @@ header {
     font-weight: 700;
     margin-bottom: 60px;
 }
+
+.column-2 {
+    width: 48%;
+}
