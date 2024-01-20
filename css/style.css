@@ -115,3 +115,11 @@ header {
 .text {
     line-height: 2;
 }
+
+.concept-img {
+    background-image: url(../images/hero.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 540px;
+    border-radius: 30px;
+}
