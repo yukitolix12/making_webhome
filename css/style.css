@@ -134,4 +134,5 @@ header {
     top: 0;
     right: 0;
     transform: translateY(-30%);
+    z-index: -1;
 }
