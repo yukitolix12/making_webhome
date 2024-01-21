@@ -130,4 +130,7 @@ header {
     font-weight: 700;
     color: #80BA4A;
     opacity: 0.1;
+    position: absolute;
+    top: 0;
+    right: 0;
 }
