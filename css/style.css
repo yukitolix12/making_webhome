@@ -157,3 +157,9 @@ header {
 #service img {
     border-radius: 20px;
 }
+
+#service h3 {
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 24px;
+}
