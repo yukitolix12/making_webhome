@@ -145,3 +145,11 @@ header {
 .service_inner {
     margin-bottom: 40px;
 }
+
+.column-40 {
+    width: 40%;
+}
+
+.column-55 {
+    width: 55%;
+}
