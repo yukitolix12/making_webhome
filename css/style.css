@@ -141,3 +141,7 @@ header {
 #service {
     margin-bottom: 120px;
 }
+
+.service_inner {
+    margin-bottom: 40px;
+}
