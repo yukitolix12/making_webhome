@@ -136,3 +136,8 @@ header {
     transform: translateY(-30%);
     z-index: -1;
 }
+
+/*サービス*/
+#service {
+    margin-bottom: 120px;
+}
