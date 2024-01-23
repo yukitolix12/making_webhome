@@ -153,3 +153,7 @@ header {
 .column-55 {
     width: 55%;
 }
+
+#service img {
+    border-radius: 20px;
+}
