@@ -177,8 +177,10 @@ header {
 
 #company dt {
     width: 30%;
+    padding: 48px 0;
 }
 
 #company dd {
     width: 70%;
+    padding: 48px 0;
 }
