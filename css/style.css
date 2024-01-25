@@ -178,6 +178,7 @@ header {
 #company dt {
     width: 30%;
     padding: 48px 0;
+    font-weight: 500;
 }
 
 #company dd {
