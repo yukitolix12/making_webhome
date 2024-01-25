@@ -169,3 +169,8 @@ header {
 #company {
     margin-bottom: 120px;
 }
+
+#company dl {
+    max-width: 900px;
+    margin-left: auto;
+}
