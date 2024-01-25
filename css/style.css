@@ -179,6 +179,7 @@ header {
     width: 30%;
     padding: 48px 0;
     font-weight: 500;
+    border-bottom: solid 1px #D2ECBA;
 }
 
 #company dd {
