@@ -174,3 +174,11 @@ header {
     max-width: 900px;
     margin-left: auto;
 }
+
+#company dt {
+    width: 30%;
+}
+
+#company dd {
+    width: 70%;
+}
