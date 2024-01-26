@@ -199,7 +199,7 @@ header {
 }
 
 .column-b {
-    background-image: url(../images/bottom1.jpg);
+    background-image: url(../images/bottom2.jpg);
     background-position: center;
     background-size: cover;
     width: 24%;
@@ -208,7 +208,7 @@ header {
 }
 
 .column-c {
-    background-image: url(../images/bottom1.jpg);
+    background-image: url(../images/bottom3.jpg);
     background-position: center;
     background-size: cover;
     width: 24%;
@@ -217,7 +217,7 @@ header {
 }
 
 .column-d {
-    background-image: url(../images/bottom1.jpg);
+    background-image: url(../images/bottom4.jpg);
     background-position: center;
     background-size: cover;
     width: 24%;
