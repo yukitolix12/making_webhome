@@ -198,7 +198,7 @@ header {
     border-radius: 20px;
 }
 
-.column-a {
+.column-b {
     background-image: url(../images/bottom1.jpg);
     background-position: center;
     background-size: cover;
@@ -207,7 +207,7 @@ header {
     border-radius: 20px;
 }
 
-.column-a {
+.column-c {
     background-image: url(../images/bottom1.jpg);
     background-position: center;
     background-size: cover;
@@ -216,7 +216,7 @@ header {
     border-radius: 20px;
 }
 
-.column-a {
+.column-d {
     background-image: url(../images/bottom1.jpg);
     background-position: center;
     background-size: cover;
