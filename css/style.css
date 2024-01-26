@@ -230,3 +230,8 @@ footer {
     text-align: center;
     margin: 90px 0;
 }
+
+.copyright {
+    font-size: 12px;
+    margin-top: 40px;
+}
