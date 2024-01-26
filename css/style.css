@@ -187,3 +187,12 @@ header {
     padding: 48px 0;
     border-bottom: solid 1px #D2ECBA;
 }
+
+/* ボトム */
+.column-a {
+    background-image: url(../images/concept.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 340px;
+    border-radius: 20px;
+}
