@@ -224,3 +224,9 @@ header {
     height: 270px;
     border-radius: 20px;
 }
+
+/* フッター */
+footer {
+    text-align: center;
+    margin: 90px 0;
+}
