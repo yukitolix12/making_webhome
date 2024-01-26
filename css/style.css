@@ -193,6 +193,7 @@ header {
     background-image: url(../images/bottom1.jpg);
     background-position: center;
     background-size: cover;
-    height: 340px;
+    width: 24%;
+    height: 270px;
     border-radius: 20px;
 }
