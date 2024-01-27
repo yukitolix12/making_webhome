@@ -232,6 +232,10 @@ header {
     border-bottom: solid 1px #D2ECBA;
 }
 
+@media only screen and (max-width: 768px) {
+    
+}
+
 /* ボトム */
 .column-a {
     background-image: url(../images/bottom1.jpg);
