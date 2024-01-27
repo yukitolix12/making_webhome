@@ -105,11 +105,6 @@ header {
         background-position: center;
         background-size: cover;
         height: 540px;
-        border-radius: 30px;
-        display: flex;
-        align-items: center;
-        margin-bottom: 90px;
-        overflow: hidden;
     }
 }
 
