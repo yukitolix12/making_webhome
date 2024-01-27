@@ -46,8 +46,10 @@ header {
     transition: 0.3s;
 }
 
-@media only screen and (max-width: 768) {
-    
+@media only screen and (max-width: 768px) {
+    header .container {
+        justify-content: center;
+    }
 }
 
 /*メイン*/
