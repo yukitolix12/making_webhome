@@ -161,7 +161,8 @@ header {
         width: 100%;
     }
     .text {
-        line-height: 2;
+        font-size: 15px;
+        line-height: 1.7;
     }
     
 }
