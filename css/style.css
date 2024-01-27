@@ -50,6 +50,9 @@ header {
     header .container {
         justify-content: center;
     }
+    .header_menu li {
+        margin: 20px 16px 0;
+    }    
 }
 
 /*メイン*/
