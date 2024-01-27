@@ -276,7 +276,11 @@ header {
 }
 
 @media only screen and (max-width: 768px) {
-    
+    .column-a, .column-b, .column-c, .column-d {
+        width: 40px;
+        height: 140px;
+        margin: 1%;
+    }
 }
 
 /* フッター */
