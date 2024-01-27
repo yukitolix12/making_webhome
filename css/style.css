@@ -160,6 +160,10 @@ header {
     .column-2 {
         width: 100%;
     }
+    .text {
+        line-height: 2;
+    }
+    
 }
 
 /*サービス*/
