@@ -100,7 +100,17 @@ header {
 }
 
 @media only screen and (max-width: 768px) {
-    
+    #hero {
+        background-image: url(../images/hero.jpg);
+        background-position: center;
+        background-size: cover;
+        height: 540px;
+        border-radius: 30px;
+        display: flex;
+        align-items: center;
+        margin-bottom: 90px;
+        overflow: hidden;
+    }
 }
 
 /* コンセプト */
