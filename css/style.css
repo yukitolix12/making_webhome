@@ -277,7 +277,7 @@ header {
 
 @media only screen and (max-width: 768px) {
     .column-a, .column-b, .column-c, .column-d {
-        width: 40px;
+        width: 48px;
         height: 140px;
         margin: 1%;
     }
