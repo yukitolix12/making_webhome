@@ -233,7 +233,10 @@ header {
 }
 
 @media only screen and (max-width: 768px) {
-    
+    #company dl {
+        max-width: 900px;
+        margin-left: auto;
+    }
 }
 
 /* ボトム */
