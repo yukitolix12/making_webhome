@@ -195,6 +195,10 @@ header {
     margin-bottom: 24px;
 }
 
+@media only screen and (max-width: 768px) {
+    
+}
+
 /* カンパニー */
 #company {
     margin-bottom: 120px;
